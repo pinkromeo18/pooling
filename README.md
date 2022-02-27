@@ -1,5 +1,13 @@
 # pooling
-pooling.js 
+- https://pinkromeo18.github.io/pooling/pooling.js
+```
+https://pinkromeo18.github.io/pooling/pooling.js
+```
+```
+<script src="https://pinkromeo18.github.io/pooling/pooling.js"></script>
+```
+
+
 ```
 await sleep(msec)
 await pooling(caller)
