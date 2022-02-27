@@ -1,5 +1,5 @@
 ;(function(root){
-  'use-strict'
+  'use strict'
   const sleep = s => new Promise(r => setTimeout(r, s));
   const pooling = async (caller,limit) =>{
     limit = limit || 60*1000 //def one min
